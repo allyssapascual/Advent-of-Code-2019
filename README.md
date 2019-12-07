@@ -29,10 +29,4 @@ Advent of code 2019 solutions and tests in Java.
 |23| |
 |24| |
 |25| |
-|26| |
-|27| |
-|28| |
-|29| |
-|30| |
-|31| |
 
