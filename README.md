@@ -1,6 +1,6 @@
 # Advent-of-code-2019
 
-Advent of code 2019 solutions and tests are in Java.
+Advent of code 2019 solutions and tests in Java.
 
 |Day|Solved|
 |---|---|
