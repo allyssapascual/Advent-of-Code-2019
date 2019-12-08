@@ -4,7 +4,7 @@ Advent of code 2019 solutions and tests in Java.
 
 |Day|Solved|
 |---|---|
-|1| |
+|1|X|
 |2| |
 |3| |
 |4| |
