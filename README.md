@@ -5,9 +5,9 @@ Advent of code 2019 solutions and tests in Java.
 🎄🎄🎄🎄
 
 |Day|Solved|
-|---|---|
+|:---:|:---:|
 |1|X|
-|2| |
+|2|X|
 |3| |
 |4| |
 |5| |
